@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+#p1-line1{
+    color: #E70505;
+}
+#p1-line2{
+    color: #2E0EED;
+}
+#p1-line3{
+    color: #2FBE35;
+}
+/*used inline CSS for styling large and small section of text (just wanted to try,
+I know it's not ideal)*/
+#p3{
+    text-align: center;
+}
+#p4{
+    font-weight: bold;
+}
+#p5{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#p6{
+    font-weight: bold;
+    font-size: 30px;
+    color: orange;
+}
+.styledFont{
+    font-family: Parkavenue, cursive;
+    font-weight: lighter;
+    font-size: 19px;
+    color: blueviolet;
+}
+#styledImage{
+    border-width: 8px;
+    border-style: solid;
+    border-color: orangered;
+    
+}
