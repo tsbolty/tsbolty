@@ -3,18 +3,18 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'tyler-bolty';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  this.name     = 'Tyler Bolty';
+  this.title    = 'Full Stack Engineer';
+  this.company  = 'Seeking';
+  this.location = 'Anywhere';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  this.languages  = ['TypeScript', 'JavaScript', 'Ruby On Rails', 'HTML', 'CSS'];
+  this.databases  = ['MongoDB', 'MySQL', 'PostgreSQL'];
+  this.technologies = ['React', 'React Native', 'GraphQL', 'AWS', 'Google Maps API', 'Material-UI'];
 }
 ```
