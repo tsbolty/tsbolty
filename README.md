@@ -19,7 +19,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tsbolty&show_icons=true&theme=dracula&hide=stars,issues)
+![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tsbolty&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&show_icons=true&hide=stars,issues)
 
 [Portfolio](https://tsbolty-portfolio.netlify.app)
 [Linkedin](https://linkedin.com/in/tyler-bolty)
