@@ -18,3 +18,6 @@ class Skills extends SoftwareDeveloper {
   this.technologies = ['React', 'React Native', 'GraphQL', 'AWS', 'Google Maps API', 'Material-UI'];
 }
 ```
+
+[!Portfolio](https://tsbolty-portfolio.netlify.app)
+[!Linkedin](https://linkedin.com/in/tyler-bolty)
