@@ -19,5 +19,5 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-[!Portfolio](https://tsbolty-portfolio.netlify.app)
-[!Linkedin](https://linkedin.com/in/tyler-bolty)
+[Portfolio](https://tsbolty-portfolio.netlify.app)
+[Linkedin](https://linkedin.com/in/tyler-bolty)
