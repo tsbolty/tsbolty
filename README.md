@@ -8,14 +8,14 @@ import SoftwareDeveloper from 'tyler-bolty';
 class Bio extends SoftwareDeveloper {
   this.name     = 'Tyler Bolty';
   this.title    = 'Full Stack Engineer';
-  this.company  = 'Backbone';
-  this.location = 'Colorado';
+  this.company  = 'Backbone PLM';
+  this.location = 'USA';
 }
 
 class Skills extends SoftwareDeveloper {
-  this.languages    = ['TypeScript', 'JavaScript', 'Ruby On Rails', 'HTML', 'CSS'];
-  this.databases    = ['MongoDB', 'MySQL', 'PostgreSQL'];
-  this.technologies = ['React', 'React Native', 'Vue', 'GraphQL', 'AWS', 'Google API', 'Material-UI'];
+  this.languages    = ['TypeScript', 'HTML', 'CSS'];
+  this.databases    = ['MongoDB', 'PostgreSQL'];
+  this.technologies = ['NestJS', 'Docker', 'GraphQL', 'AWS', 'React', 'Vue', 'Angular'];
 }
 ```
 
