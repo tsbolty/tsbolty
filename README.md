@@ -15,11 +15,10 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   this.languages    = ['TypeScript', 'HTML', 'CSS'];
   this.databases    = ['MongoDB', 'PostgreSQL'];
-  this.technologies = ['NestJS', 'Docker', 'GraphQL', 'AWS', 'React', 'Vue', 'Angular'];
+  this.technologies = ['Node', 'NestJS', 'Docker', 'GraphQL', 'AWS', 'React', 'Vue', 'Angular'];
 }
 ```
 
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tsbolty&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&show_icons=true&hide=stars,issues)
 
-[Portfolio](https://tsbolty-portfolio.netlify.app)
-[Linkedin](https://linkedin.com/in/tyler-bolty)
+[![Linkedin Badge](https://img.shields.io/badge/-Tyler%20Bolty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-bolty/)](https://www.linkedin.com/in/tyler-bolty/)
