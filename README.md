@@ -3,20 +3,32 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'tyler-bolty';
+import SoftwareEngineer from 'tyler-bolty';
 
-class Bio extends SoftwareDeveloper {
+class Introduction extends SoftwareEngineer {
+  this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
+                   API design, and data modeling. I thrive on crafting high-quality web applications
+                   and love diving deep into complex challenges.';
+}
+
+class Bio extends SoftwareEngineer {
   this.name     = 'Tyler Bolty';
-  this.title    = 'Full Stack Engineer';
-  this.company  = 'Backbone PLM';
-  this.location = 'USA';
+  this.title    = 'Full Stack Software Engineer';
+  this.company  = 'Bamboo Rose';
+  this.location = 'Charlotte, NC, USA';
 }
 
-class Skills extends SoftwareDeveloper {
-  this.languages    = ['TypeScript', 'HTML', 'CSS'];
-  this.databases    = ['MongoDB', 'PostgreSQL'];
-  this.technologies = ['Node', 'NestJS', 'Docker', 'GraphQL', 'AWS', 'React', 'Vue', 'Angular'];
+class Skills extends SoftwareEngineer {
+  this.languages = ['TypeScript', 'JavaScript', 'Go', 'HTML', 'CSS']
+  this.databases = ['MongoDB', 'PostgreSQL', 'SQL', 'NoSQL Databases']
+  this.frameworksAndLibraries = {
+    backend: ['Node', 'NestJS', 'GraphQL', 'Express.js', 'Redis'],
+    frontend: ['React', 'Vue', 'Angular', 'Next.js']
+  }
+  this.devOps = ['Docker', 'AWS', 'Terraform', 'CircleCI', 'CI/CD']
+  this.other = ['Handlebars', 'Handsontable', 'SCSS', 'Postman', 'Sendgrid', 'Jira']
 }
+
 ```
 
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tsbolty&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&show_icons=true&hide=stars,issues)
