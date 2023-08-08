@@ -31,6 +31,4 @@ class Skills extends SoftwareEngineer {
 
 ```
 
-![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tsbolty&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&show_icons=true&hide=stars,issues)
-
 [![Linkedin Badge](https://img.shields.io/badge/-Tyler%20Bolty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-bolty/)](https://www.linkedin.com/in/tyler-bolty/)
