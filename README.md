@@ -19,14 +19,14 @@ class Bio extends SoftwareEngineer {
 }
 
 class Skills extends SoftwareEngineer {
-  this.languages = ['TypeScript', 'JavaScript', 'Go', 'HTML', 'CSS']
-  this.databases = ['MongoDB', 'PostgreSQL', 'SQL', 'NoSQL Databases']
+  this.languages = ['TypeScript', 'Go', 'SQL', 'Java', 'HTML', 'CSS']
+  this.databases = ['MongoDB', 'NoSQL Databases', 'PostgreSQL', 'SQL Databases']
   this.frameworksAndLibraries = {
-    backend: ['Node', 'NestJS', 'GraphQL', 'Express.js', 'Redis'],
+    backend: ['Node', 'NestJS', 'GraphQL', 'Express.js', 'Redis', 'Socket.io'],
     frontend: ['React', 'Vue', 'Angular', 'Next.js']
   }
   this.devOps = ['Docker', 'AWS', 'Terraform', 'CircleCI', 'CI/CD']
-  this.other = ['Handlebars', 'Handsontable', 'SCSS', 'Postman', 'Sendgrid', 'Jira']
+  this.other = ['AWS S3', 'Handlebars', 'Handsontable', 'SCSS', 'Postman', 'Sendgrid', 'Jira']
 }
 
 ```
